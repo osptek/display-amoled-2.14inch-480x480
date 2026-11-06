@@ -1,0 +1,10 @@
+id: AM214Q480480LK2
+category: displays
+size: "2.14"
+panel: amoled
+resolution: 480x480
+interface: [qspi]
+driver: ST7801N
+touch: CST9220
+outline: 44.59 x 44.59 x 2.58 mm
+active_area: 38.39 x 38.39 mm
