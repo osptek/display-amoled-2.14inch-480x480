@@ -48,6 +48,8 @@
 | CAD file | [`AM214Q480480LK2.dwg`](./cad/AM214Q480480LK2.dwg) |
 | CAD file | [`AM214Q480480LK2.step`](./cad/AM214Q480480LK2.step) |
 | Init code | [`EDO2.14_480x480_ST7801N_QSPI_简码 .txt`](./code/EDO2.14_480x480_ST7801N_QSPI_%E7%AE%80%E7%A0%81%20.txt) |
+| Adapter materials | [`ADP-AMOLED-200-QSPI-24P-V2.0.png`](./adapter/ADP-AMOLED-200-QSPI-24P-V2.0.png) |
+| Adapter materials | [`ADP-AMOLED-200-QSPI-24P-V2.0.pdf`](./adapter/ADP-AMOLED-200-QSPI-24P-V2.0.pdf) |
 | Other | [`AM214Q480480LK2.step`](./misc/AM214Q480480LK2.step) |
 
 ## Repository layout
@@ -63,6 +65,7 @@ display-amoled-2.14inch-480x480/ # repo root (nav: ../../README_EN.md; sample pr
         ├── datasheets/       # product datasheet + driver/touch IC datasheets
         ├── cad/              # outline/cover CAD
         ├── code/             # init reference code
+        ├── adapter/          # adapter board materials + photos
         └── misc/             # other materials
 ```
 

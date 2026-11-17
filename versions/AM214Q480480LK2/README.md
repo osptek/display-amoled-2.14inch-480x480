@@ -48,6 +48,8 @@
 | CAD 图纸 | [`AM214Q480480LK2.dwg`](./cad/AM214Q480480LK2.dwg) |
 | CAD 图纸 | [`AM214Q480480LK2.step`](./cad/AM214Q480480LK2.step) |
 | 初始化代码 | [`EDO2.14_480x480_ST7801N_QSPI_简码 .txt`](./code/EDO2.14_480x480_ST7801N_QSPI_%E7%AE%80%E7%A0%81%20.txt) |
+| 转接板资料 | [`ADP-AMOLED-200-QSPI-24P-V2.0.png`](./adapter/ADP-AMOLED-200-QSPI-24P-V2.0.png) |
+| 转接板资料 | [`ADP-AMOLED-200-QSPI-24P-V2.0.pdf`](./adapter/ADP-AMOLED-200-QSPI-24P-V2.0.pdf) |
 | 其他资料 | [`AM214Q480480LK2.step`](./misc/AM214Q480480LK2.step) |
 
 ## 仓库结构
@@ -63,6 +65,7 @@ display-amoled-2.14inch-480x480/ # 仓库根（导航见 ../../README.md，示�
         ├── datasheets/       # 产品规格书 + 驱动/触摸 IC 数据手册
         ├── cad/              # 外形/盖板 CAD
         ├── code/             # 初始化参考代码
+        ├── adapter/          # 转接板资料 + 转接板图片
         └── misc/             # 其他资料
 ```
 
