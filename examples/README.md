@@ -8,6 +8,6 @@ Each subfolder in this directory is an independent sample project. Open the fold
 | --- | --- | --- | --- | --- |
 | [`esp32s3-idf5_st7801-qspi-480x480_lvgl8-te`](./esp32s3-idf5_st7801-qspi-480x480_lvgl8-te/) | ESP32-S3 · ESP-IDF 5 | ST7801 | QSPI | LVGL 8、TE 防撕裂，含 CST9220 触摸 / LVGL 8, TE tear-free, with CST9220 touch |
 | [`esp32s3-idf5_st7801-qspi-480x480_osptek-boot-anim_lvgl9-te`](./esp32s3-idf5_st7801-qspi-480x480_osptek-boot-anim_lvgl9-te/) | ESP32-S3 · ESP-IDF 5 | ST7801 | QSPI | 开机动画+LVGL 9、TE 防撕裂 / Boot Animation+LVGL 9, TE tear-free |
-| [`esp32s31-idf6_st7801-qspi-480x480_osptek-boot-anim_lvgl9-te`](./esp32s31-idf6_st7801-qspi-480x480_osptek-boot-anim_lvgl9-te/) | ESP32-S31 · ESP-IDF 6 | ST7801 | QSPI | 开机动画+LVGL 9、TE 防撕裂 / Boot Animation+LVGL 9, TE tear-free |
+| [`esp32s31-idf6_st7801-qspi-480X480_osptek-boot-anim_lvgl9-te`](./esp32s31-idf6_st7801-qspi-480X480_osptek-boot-anim_lvgl9-te/) | ESP32-S31 · ESP-IDF 6 | ST7801 | QSPI | 开机动画+LVGL 9、TE 防撕裂 / Boot Animation+LVGL 9, TE tear-free |
 
 如有问题请联系技术支持。 / Contact technical support if you have questions.
